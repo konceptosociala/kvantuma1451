@@ -4,7 +4,7 @@
 <svg
    width="1000"
    height="1400"
-   viewBox="0 0 264.58333 370.41666"
+   viewBox="0 0 1000 1400"
    version="1.1"
    id="svg734"
    sodipodi:docname="i.svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.61562749"
-     inkscape:cx="89.339741"
-     inkscape:cy="246.09038"
+     inkscape:cx="227.41025"
+     inkscape:cy="705.78395"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -77,7 +77,7 @@
      id="layer1">
     <path
        id="rect1444"
-       style="fill:#000000;fill-opacity:1;stroke-width:2.85241"
-       d="m 15.875001,42.333333 v 26.45833 h 26.45833 v -26.45833 z m 0,58.208487 v 137.58409 h 26.45833 V 100.54182 Z" />
+       style="fill:#000000;fill-opacity:1;stroke-width:10.7808"
+       d="m 60.000001,160 v 99.99999 H 159.99999 V 160 Z m 0,220.00059 V 900.00346 H 159.99999 V 380.00059 Z" />
   </g>
 </svg>

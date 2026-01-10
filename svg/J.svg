@@ -4,7 +4,7 @@
 <svg
    width="1000"
    height="1400"
-   viewBox="0 0 264.58333 370.41666"
+   viewBox="0 0 1000 1400"
    version="1.1"
    id="svg734"
    sodipodi:docname="J.svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.70269057"
-     inkscape:cx="415.54564"
-     inkscape:cy="668.14615"
+     inkscape:zoom="0.44067989"
+     inkscape:cx="340.38313"
+     inkscape:cy="584.32437"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -77,8 +77,8 @@
      id="layer1">
     <path
        id="rect2531-9-1"
-       style="fill:#000000;fill-opacity:0.997577;stroke-width:7.80918"
-       d="M 116.41667,26.458402 V 169.3334 c 0,26.9822 -16.58415,42.3332 -37.04167,42.3332 -20.45754,0 -37.041681,-16.584 -37.041681,-37.0416 H 15.875 c 0,35.07 28.429899,63.5 63.5,63.5 35.07011,0 63.50001,-26.4584 63.50001,-68.7916 V 26.458402 Z"
+       style="fill:#000000;fill-opacity:0.997577;stroke-width:29.515"
+       d="m 440,100.00026 v 540.00001 c 0,101.97997 -62.68025,159.9995 -140.00001,159.9995 -77.31983,0 -140.00005,-62.67969 -140.00005,-139.99975 H 59.999998 c 0,132.54803 107.451582,240 239.999992,240 132.54844,0 240.00003,-100.00025 240.00003,-259.99975 V 100.00026 Z"
        sodipodi:nodetypes="ccscccccc" />
   </g>
 </svg>
