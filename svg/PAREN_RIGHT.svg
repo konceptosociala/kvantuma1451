@@ -7,7 +7,7 @@
    viewBox="0 0 1000 1400"
    version="1.1"
    id="svg734"
-   sodipodi:docname="Z.svg"
+   sodipodi:docname="PAREN_RIGHT.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.45729726"
-     inkscape:cx="34.988183"
-     inkscape:cy="875.79795"
+     inkscape:zoom="0.62466347"
+     inkscape:cx="632.34048"
+     inkscape:cy="386.60817"
      inkscape:window-width="1920"
      inkscape:window-height="1131"
      inkscape:window-x="0"
@@ -76,8 +76,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect11920"
+       id="rect12933"
        style="fill:#000000;fill-opacity:1;stroke-width:12.4724"
-       d="m 60.000001,100.00004 v 99.99995 H 478.90621 L 60.000001,793.16403 V 900.00001 H 106.99162 600.00001 V 799.99998 H 177.57808 L 600.00001,201.83593 V 100.00004 h -50.5081 z" />
+       d="m 60,5.82018 v 104.0234 c 69.726,17.2856 121.172,79.8596 121.172,155.0782 v 500 C 181.172,840.1404 129.726,902.7144 60,920 v 104.0234 C 183.522,1013.9142 280,911.138 280,784.9218 V 244.92178 C 280,118.70558 183.522,15.92938 60,5.82018 Z"
+       sodipodi:nodetypes="ccssccssc" />
   </g>
 </svg>
